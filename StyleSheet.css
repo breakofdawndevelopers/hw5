@@ -1,0 +1,25 @@
+﻿
+.one {
+    background: green;
+}
+
+.two {
+    background: blue;
+}
+
+.three {
+    background: red;
+}
+
+#text {
+    display: inline;
+}
+
+#Spin {
+    background-color: lightgreen;
+}
+
+    #Spin:hover {
+        background-color: darkgreen;
+        font-size: larger;
+    }
